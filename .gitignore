@@ -1,6 +1,5 @@
 .DS_Store
 package-lock.json
-dist/kline.js
 .idea
 *.log
 node_modules/
